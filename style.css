@@ -76,13 +76,18 @@ p{
 }
 .three h2 {
     text-align: left;
+    font-weight: 100;
+    font-style: italic;
+
 }
 .three p{
     color: #1F2937;
-    padding-left: 80vh;
-    padding-right: vh;
-    font-size: 16px;
-    flex-wrap: nowrap;
+    text-align: right;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    padding-right: 5vh;
+    
 }
 .con{
     display: flex;
@@ -161,7 +166,9 @@ con1{}
     max-height: 4vh;
     border-width: 3px;
 }
-
+body,a{
+    color: darkgoldenrod;
+}
 .footer {
     display: flex;
     align-items: center;
