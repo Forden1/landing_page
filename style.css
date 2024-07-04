@@ -166,7 +166,7 @@ con1{}
     max-height: 4vh;
     border-width: 3px;
 }
-body,a{
+body{
     color: darkgoldenrod;
 }
 .footer {
